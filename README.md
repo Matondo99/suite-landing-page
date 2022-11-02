@@ -48,8 +48,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution to [Suite landing page challenge](https://www.frontendmentor.io/solutions/stop-overlapping-around-the-bush-grdZT6BYDC)
+- Live Site of [Suite landing page challenge](https://matondo99.github.io/suite-landing-page/)
 
 ## My process
 
@@ -69,5 +69,5 @@ To cope with overlapping elements apply `position: relative` without any **offse
 
 ## Author
 
-- Website - [Astar Bahouidi](https://www.your-site.com)
+- Website - [Astar Bahouidi](https://github.com/Matondo99)
 - Frontend Mentor - [@Matondo99](https://www.frontendmentor.io/profile/Matondo99)
