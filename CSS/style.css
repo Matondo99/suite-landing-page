@@ -53,7 +53,7 @@ b {
 }
 
 img.logo,
-img.hero-img,
+/* img.hero-img, */
 img.jeremy-img {
   display: block;
   max-width: 100%;
@@ -118,11 +118,6 @@ body {
   row-gap: calc(var(--paddwiser) * 3);
 }
 
-.intro .hero {
-  margin-left: auto;
-  margin-right: auto;
-}
-
 h1 {
   /* border: solid 2px greenyellow; */
   color: var(--clr-neutral-80);
@@ -131,8 +126,11 @@ h1 {
   max-width: 16ch;
   padding-top: 1em;
   background: url(../images/pattern-curved-line-1.svg) no-repeat 84% 0.15em/46%;
-  margin-left: auto;
-  margin-right: auto;
+}
+
+img.hero-img {
+  display: block;
+  width: 100%;
 }
 
 /* =============== Buttons ==================== */
@@ -351,6 +349,10 @@ ul.social-list {
     row-gap: calc(var(--paddwiser) * 2);
     column-gap: 1rem;
     --margwiser-top: calc(var(--paddwiser) * 1.5);
+  }
+  
+  img.hero-img {
+    max-width: 100%;
   }
 
   .herald h1 {
